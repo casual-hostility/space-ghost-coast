@@ -23,3 +23,4 @@ print(quote.title())
 
 albert = "Albert Einstein once said, \"A person who never made a mistake never tried anything new.\" "
 print(albert)
+#escape characters used on quotation marks
